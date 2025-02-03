@@ -54,7 +54,7 @@ From **338 job listings**, the most frequently mentioned tools are:
 ![image](https://github.com/user-attachments/assets/cc2c1bfd-9ac4-4578-9003-c0422c525836)
 
 ### **4. Classification analysis to predict salary level for job listings**
-- As mentioned, only 23% of jobs listings are advertised with salary ranges. Having a salary predictive algorithm is important in these cases.
+- As mentioned, only 23% of jobs listings are advertised with salary ranges. Developing a salary predictive classifier model can address the lack of salary data in job listings. 
 - Random Forest Classifier predict salary level with **60% accuracy**, using features such as job_role, job_sector, and states.
 - Feature importance shows that **job_role is the most influential factor impacting salaries**.
 
